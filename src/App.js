@@ -15,9 +15,7 @@ function App() {
     delete L.Icon.Default.prototype._getIconUrl;
 
     L.Icon.Default.mergeOptions({
-      iconRetinaUrl: 'C:\\Users\\yohan\\Documents\\Projets\\Velov-Proba\\src',
-      iconUrl: 'C:\\Users\\yohan\\Documents\\Projets\\Velov-Proba\\src',
-      shadowUrl: 'C:\\Users\\yohan\\Documents\\Projets\\Velov-Proba\\src'
+      iconUrl: 'https://www.mediacite.fr/wp-content/uploads/2014/07/gdlyon-decaux-velov-01-e1418221586640.jpg'
     });
   }, []);
 
