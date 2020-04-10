@@ -29,14 +29,6 @@ const App = () => {
   }, []);
 
   React.useEffect(() => {
-    console.log(markers)
-    console.log( markers.map(marker => {
-      <Marker position={marker.position}>
-        <Popup>
-          fidhfkjsdhfk
-        </Popup>
-      </Marker>
-    }))
   }, [markers]);
 
   return (
