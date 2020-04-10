@@ -27,7 +27,7 @@ async def getStationHistory(request):
                 +str(velov)
                 +"&offering=reseau_velov&observedProperty=urn%3Aogc%3Adef%3Aparameter%3Ax-istsos%3A1.0%3Abikes%2Curn%3Aogc%3Adef%3Aparameter%3Ax-istsos%3A1.0%3Abike-stands&responseFormat=application%2Fjson&resultModel=om%3AObservation&eventTime=2020-04-02T10%3A40%3A00.000Z%2F2020-04-10T10%3A40%3A00.000Z") as res:
             raw_data = await res.text()
-            data = json.loads(raw_data)["ObservationCollection"]["member"][0]
+            data = json.loads(raw_data)["ObservationCollection"]["member"][0]["result"]["DataArray"]["values"]
             
             return web.json_response(data)
     
