@@ -5,8 +5,14 @@ import './App.css';
 import { Map, Marker, Popup, TileLayer } from 'react-leaflet'
 import 'leaflet/dist/leaflet.css';
 import ProjectContext from "./context/ProjectContext"
+import axios from "axios"
 
-
+const backend = axios.create({
+  /* baseURL: "http://192.168.68.251:8082", */
+  baseURL: "http://localhost:8080",
+  timeout: 10000,
+  validateStatus: false
+})
 
 const App = () => {
   //const { state, dispatch } = useContext(ProjectContext)
@@ -20,6 +26,13 @@ const App = () => {
 
     delete L.Icon.Default.prototype._getIconUrl;
 
+    backend.get("/stations")
+      .then(res => {
+        setMarkers(res.data.map(d => {
+          return {position: d.geometry, name: d.name, desc: d.procedure}
+        }))
+      })
+
     L.Icon.Default.mergeOptions({
       iconUrl: 'https://www.mediacite.fr/wp-content/uploads/2014/07/gdlyon-decaux-velov-01-e1418221586640.jpg'
     });
@@ -31,6 +44,7 @@ const App = () => {
   React.useEffect(() => {
   }, [markers]);
 
+  console.log(markers)
   return (
     <div>
       {loading ? <div> Chargement </div>
