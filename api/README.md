@@ -6,5 +6,5 @@ python -m venv /respository/to/virtualenvs/Velov_Proba
 ### activate the virtual environment :
 . repository/to/virtualenvs/Velov_Proba/bin/activate
 
-### instal dependencies
+### install dependencies
 python -m pip install -r requirements.txt
