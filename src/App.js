@@ -35,7 +35,9 @@ const App = () => {
       })
 
     L.Icon.Default.mergeOptions({
-      iconUrl: velovIcon
+      iconUrl: velovIcon,
+      iconSize: [30,30],
+      iconAnchor: [15,15]
     });
     setMarkers([{position: [45.75, 4.85], name: 'Bonjour', desc: "Description"}])
     setLoading(false)
