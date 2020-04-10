@@ -27,4 +27,3 @@ package-lock.json
 
 # python environnement
 api/env
-/*/__pycache__
