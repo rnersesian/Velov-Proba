@@ -1,4 +1,5 @@
 from aiohttp import web
+import aiohttp
 import json
 
 async def hello(request):
@@ -19,10 +20,23 @@ async def getStations(request):
 
         return web.json_response(fdata)
 
+async def getStationHistory(request):
+    velov = request.match_info.get("station_name")
+    async with aiohttp.ClientSession() as session:
+        async with session.get("https://download.data.grandlyon.com/sos/velov?service=SOS&request=GetObservation&version=1.0.0&procedure="
+                +str(velov)
+                +"&offering=reseau_velov&observedProperty=urn%3Aogc%3Adef%3Aparameter%3Ax-istsos%3A1.0%3Abikes%2Curn%3Aogc%3Adef%3Aparameter%3Ax-istsos%3A1.0%3Abike-stands&responseFormat=application%2Fjson&resultModel=om%3AObservation&eventTime=2020-04-02T10%3A40%3A00.000Z%2F2020-04-10T10%3A40%3A00.000Z") as res:
+            raw_data = await res.text()
+            test = json.load(raw_data)
+            return web.json_response(test)
+    
+
 app = web.Application()
+
 app.add_routes([
     web.get('/', hello),
-    web.get("/stations", getStations)
+    web.get("/stations", getStations),
+    web.get("/stations/{station_name}", getStationHistory)
 
 ])
 
