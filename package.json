@@ -12,7 +12,8 @@
     "react-dom": "^16.13.1",
     "react-leaflet": "^2.6.3",
     "react-leaflet-universal": "^2.2.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "lowdb": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
