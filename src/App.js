@@ -6,6 +6,7 @@ import { Map, Marker, Popup, TileLayer } from 'react-leaflet'
 import 'leaflet/dist/leaflet.css';
 import ProjectContext from "./context/ProjectContext"
 import axios from "axios"
+import velovIcon from "./icon_velov.png"
 
 const backend = axios.create({
   /* baseURL: "http://192.168.68.251:8082", */
@@ -34,7 +35,7 @@ const App = () => {
       })
 
     L.Icon.Default.mergeOptions({
-      iconUrl: 'https://www.mediacite.fr/wp-content/uploads/2014/07/gdlyon-decaux-velov-01-e1418221586640.jpg'
+      iconUrl: velovIcon
     });
     setMarkers([{position: [45.75, 4.85], name: 'Bonjour', desc: "Description"}])
     setLoading(false)
