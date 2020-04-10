@@ -1,6 +1,7 @@
 from aiohttp import web
 import aiohttp
 import json
+from cors import setup_cors
 
 async def hello(request):
     return web.Response(text="Hello World")
@@ -40,5 +41,7 @@ app.add_routes([
     web.get("/stations/{station_name}", getStationHistory)
 
 ])
+
+setup_cors(app)
 
 web.run_app(app)
