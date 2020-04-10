@@ -29,7 +29,7 @@ const App = () => {
     backend.get("/stations")
       .then(res => {
         setMarkers(res.data.map(d => {
-          return {position: d.geometry, name: d.name, desc: d.procedure}
+          return {position: [d.geometry[1], d.geometry[0]], name: d.name, desc: d.procedure}
         }))
       })
 
