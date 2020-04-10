@@ -7,6 +7,7 @@ import 'leaflet/dist/leaflet.css';
 import ProjectContext from "./context/ProjectContext"
 import axios from "axios"
 import velovIcon from "./icon_velov.png"
+import MarkerClusterGroup from "react-leaflet-markercluster";
 
 const backend = axios.create({
   /* baseURL: "http://192.168.68.251:8082", */
@@ -56,17 +57,17 @@ const App = () => {
           attribution='&amp;copy <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
-
-        {
-          markers.map(marker => 
-            <Marker key={Math.random()} position={marker.position}>
-              <Popup>
-                fidhfkjsdhfk
-              </Popup>
-            </Marker>
-          )
-        }
-        
+        <MarkerClusterGroup>
+          {
+            markers.map(marker => 
+              <Marker key={Math.random()} position={marker.position}>
+                <Popup>
+                  fidhfkjsdhfk
+                </Popup>
+              </Marker>
+            )
+          }
+        </MarkerClusterGroup>
       </Map>}
     </div>
   );
