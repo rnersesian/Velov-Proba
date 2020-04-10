@@ -1,0 +1,4855 @@
+{
+    "type": "FeatureCollection",
+    "name": "velov.stations",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-1001",
+                "description": "Terreaux / Terme",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-1001&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83213506219, 45.767734686399997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-1002",
+                "description": "Opera",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-1002&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83628239969, 45.767506910500003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-1003",
+                "description": "Place Sathonay",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-1003&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83007978877, 45.769265846300001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-1005",
+                "description": "Meissonier",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-1005&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83288970828, 45.766088600800003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-1006",
+                "description": "Subsistances",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-1006&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.81981665742, 45.767895769500001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-1012",
+                "description": "Ampere",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-1012&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83689574142, 45.765811382199999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-1013",
+                "description": "Martiniere",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-1013&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82762170447, 45.768218316599999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-1016",
+                "description": "Pecherie / Platiere",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-1016&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83110736609, 45.765949493900003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-1020",
+                "description": "Terreaux / Chenavard",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-1020&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83293380868, 45.766805527700001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-1021",
+                "description": "Terreaux / Herriot",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-1021&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83433332127, 45.766836846099999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-1022",
+                "description": "Place Tolozan",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-1022&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83765826124, 45.769604422]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-1023",
+                "description": "Croix Rousse / Duplat",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-1023&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.81948885202, 45.772284858500001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-1024",
+                "description": "Rouville",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-1024&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82463490878, 45.769662873599998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-1031",
+                "description": "Place de la Paix",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-1031&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83174125172, 45.768023612699999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-1032",
+                "description": "Pizay",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-1032&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83639168536, 45.767200417200002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-1034",
+                "description": "Carmelites / Burdeau",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-1034&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.829269505320001, 45.7700015741]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-1035",
+                "description": "Quai Lassagne",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-1035&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83791179293, 45.772201469300001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-1036",
+                "description": "Aveyron",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-1036&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83281500876, 45.7743716158]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2001",
+                "description": "Bellecour / Republique",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2001&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83463639281, 45.757962515899997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2002",
+                "description": "Bellecour",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2002&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83043945355, 45.758262043]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2003",
+                "description": "Place Ampere",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2003&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82826728262, 45.753043707400003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2004",
+                "description": "Perrache / Carnot",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2004&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82805150136, 45.750099643299997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2005",
+                "description": "Confluence Hotel de Region",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2005&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.81917951844, 45.740538315199998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2006",
+                "description": "Place de l'Hippodrome",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2006&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82353267324, 45.745581552200001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2007",
+                "description": "Patinoire Charlemagne",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2007&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82049353569, 45.742646393500003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2008",
+                "description": "Bellecour / Antonin Poncet",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2008&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83384102171, 45.756766404700002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2009",
+                "description": "Confluence Les Docks",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2009&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.81507396337, 45.739607502799998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2010",
+                "description": "Confluence Darse",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2010&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.81581631156, 45.743391975]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2011",
+                "description": "Sala / Rue du Plat",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2011&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.828374380140001, 45.756808487599997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2012",
+                "description": "Gailleton",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2012&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.833353843960001, 45.753454914199999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2013",
+                "description": "Celestins",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2013&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83207161139, 45.759939832599997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2014",
+                "description": "Jacobins",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2014&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83428785026, 45.76074578050001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2015",
+                "description": "Place de la Republique",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2015&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.8361729395, 45.760911663400002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2016",
+                "description": "Place Regaud",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2016&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83428668835, 45.763076929600004]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2017",
+                "description": "Republique / Ferrandiere",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2017&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83595992508, 45.762189982300001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2022",
+                "description": "Carnot / Henri IV",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2022&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82689094467, 45.751230384099998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2023",
+                "description": "Hugo / Ste Helene",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2023&offering=reseau_velov"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.8298923282, 45.7546761674]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2024",
+                "description": "Republique / Archers",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2024&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83407651541, 45.758739082200002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2025",
+                "description": "Brest / Ferrandiere",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2025&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83320595564, 45.762055301499998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2026",
+                "description": "Republique / Paufique",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2026&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.835399202280001, 45.759380956299999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2030",
+                "description": "Republique / Palais de la Bourse",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2030&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.835525357890001, 45.764072350299998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2035",
+                "description": "Republique / Childebert",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2035&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.835757223570001, 45.759879392]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2036",
+                "description": "Place A.Gourju",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2036&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83014467707, 45.759469884799998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2037",
+                "description": "Place des Archives",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2037&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82492586319, 45.7479214795]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2038",
+                "description": "Hugo / Ainay",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2038&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.829648947930001, 45.7530798612]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2039",
+                "description": "Charite / Recamier",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2039&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82984412575, 45.749253395499998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2041",
+                "description": "Sala/Charite",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2041&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83301108469, 45.754473276299997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2042",
+                "description": "Joffre/Conde",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2042&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82473448932, 45.751848242800001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3001",
+                "description": "Gare Part-Dieu / Vivier Merle 1",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3001&offering=reseau_velov"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85846417543, 45.760263005900001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3002",
+                "description": "Gare Part Dieu ouest",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3002&offering=reseau_velov"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85873229455, 45.760119112700004]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3003",
+                "description": "Part Dieu / Deruelle",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3003&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.855006622990001, 45.762979012099997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3004",
+                "description": "Place Guichard",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3004&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84806584611, 45.759654219700003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3005",
+                "description": "Place Victor Basch",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3005&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.8480424261, 45.753785865200001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3007",
+                "description": "Place d'Arsonval",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3007&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87890312618, 45.7434416842]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3008",
+                "description": "Institut Lumiere",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3008&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87068757478, 45.7458095693]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3009",
+                "description": "Musee Africain",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3009&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85792503006, 45.750253311900003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3010",
+                "description": "Part Dieu / Cuirassier",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3010&offering=reseau_velov"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85596120915, 45.759374132]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3012",
+                "description": "Place du Chateau",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3012&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.88728572322, 45.749517078800004]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3013",
+                "description": "Place Ronde",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3013&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.88926855741, 45.753644844599997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3015",
+                "description": "Servient / Garibaldi",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3015&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85251059124, 45.7607767055]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3016",
+                "description": "Liberte / Rue Part Dieu",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3016&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84222758702, 45.759342266300003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3018",
+                "description": "Voltaire / Crequi",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3018&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84840533317, 45.756699268200002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3021",
+                "description": "Place de la Ferrandiere",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3021&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86975999964, 45.7596463016]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3024",
+                "description": "Rockfeller / Esquirol",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3024&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.88537719793, 45.741423112699998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3029",
+                "description": "Place Aristide Briand",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3029&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85024742722, 45.753004353]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3031",
+                "description": "Servient / Corneille",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3031&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84451590397, 45.759930525900003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3032",
+                "description": "Lafayette / Crequi",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3032&offering=reseau_velov"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84713740895, 45.763404572600002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3036",
+                "description": "ZAC de la Buire",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3036&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85986333977, 45.7537994582]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3037",
+                "description": "Place des Martyrs de la Resistance",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3037&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85347191211, 45.757123071700001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3038",
+                "description": "Part Dieu / CAFAL",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3038&offering=reseau_velov"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.858934965, 45.757330738699999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3039",
+                "description": "Place Bir Hakeim",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3039&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85571014869, 45.752592143699999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3043",
+                "description": "Place Rouget de L'Isle",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3043&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86723027089, 45.754008787300002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3044",
+                "description": "Augagneur / Bonnel",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3044&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84105343077, 45.761965130100002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3051",
+                "description": "Place Henri",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3051&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.88056348867, 45.748166473399998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3053",
+                "description": "Gambetta / Jusserand",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3053&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85558284913, 45.751131580500001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3058",
+                "description": "Place du Lac",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3058&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85388085612, 45.758815494899999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3066",
+                "description": "Kimmerling / Faure",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3066&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.8634659166, 45.754263170900003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3067",
+                "description": "Renoir",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3067&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86396149383, 45.752891653799999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3071",
+                "description": "BioParc",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3071&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.88808581014, 45.740483091]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3079",
+                "description": "Place Louise",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3079&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.88482046365, 45.7512052509]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3080",
+                "description": "Gare Part Dieu Est",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3080&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86167388059, 45.760055057800002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3082",
+                "description": "Place Bahadourian",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3082&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84510859536, 45.757622922899998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3083",
+                "description": "Les Halles",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3083&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85048625739, 45.761518927399997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3084",
+                "description": "Desaix",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3084&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85520085642, 45.757261259899998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3085",
+                "description": "Sacre Coeur",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3085&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.8683950402, 45.757829669899998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3086",
+                "description": "Feuillat/Lacassagne",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3086&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87602199224, 45.749546957699998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3087",
+                "description": "Part-Dieu / Deruelle / Garibaldi",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3087&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85230976496, 45.762741311299997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3088",
+                "description": "Guichard / Mazenod",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3088&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84653860951, 45.758825249499999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3089",
+                "description": "Trarieux / Lacassagne",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3089&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.8889645724, 45.745314592699998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3090",
+                "description": "Vinatier",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3090&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.89349978098, 45.741920202700001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3091",
+                "description": "Hopital Neurologique",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3091&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.89695705755, 45.748183293799997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3094",
+                "description": "Villette/Paul Bert",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3094&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86149658594, 45.757764556399998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3097",
+                "description": "Augagneur",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3097&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84049913754, 45.757199702299999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3099",
+                "description": "Place Sainte Anne",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3099&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.8654416592, 45.756954974700001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3100",
+                "description": "Sisley/Dauphine",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3100&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86879971436, 45.752817000900009]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3101",
+                "description": "Patinoire Baraban",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3101&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.8685986854, 45.762511685]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3102",
+                "description": "Dr Long / Caille",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3102&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.89425874575, 45.752542908499997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-3103",
+                "description": "Place Danton",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-3103&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85754639852, 45.7548339947]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-4001",
+                "description": "Conservatoire bis",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-4001&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.81427562845, 45.770428135499998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-4002",
+                "description": "Mairie du 4e",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-4002&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82776522186, 45.7742004407]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-4003",
+                "description": "Place Cdt Arnaud",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-4003&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83478724841, 45.779713209299999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-4004",
+                "description": "Henon / Canuts",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-4004&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82763044255, 45.779685500100001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-4005",
+                "description": "Place Bertone",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-4005&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83445094478, 45.777615301499999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-4006",
+                "description": "IUFM",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-4006&offering=reseau_velov"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82127926256, 45.773310505399998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-4007",
+                "description": "Place Flammarion",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-4007&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82024492913, 45.779290105900003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-4009",
+                "description": "Jacquart / Denfer-Rochereau",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-4009&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82542182398, 45.775923017899999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-4011",
+                "description": "Place J. Ambre",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-4011&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83283991544, 45.781492029799999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-4012",
+                "description": "Place Adrien Godien",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-4012&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84097162336, 45.779198505300002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-4014",
+                "description": "Lasalle / Dangon",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-4014&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82049165189, 45.777409892]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-4017",
+                "description": "Place des tapis",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-4017&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82947495889, 45.776092978699999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-4021",
+                "description": "Tabareau",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-4021&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.8251925711, 45.774046047299997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-4022",
+                "description": "Place de la Croix-Rousse",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-4022&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83250103015, 45.776063026899998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-4023",
+                "description": "Pont Masaryk",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-4023&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.81068871331, 45.778194523499998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-4024",
+                "description": "Lyon Metropole",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-4024&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.81856028667, 45.788170018800002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-4025",
+                "description": "Parc Cerisaie",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-4025&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.81787397185, 45.775439614200003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-4026",
+                "description": "Birmingham",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-4026&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.813314280490001, 45.774632734800001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-4041",
+                "description": "Boussange/Austerlitz",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-4041&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83506254529, 45.775502359]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-4042",
+                "description": "Stade Gregory Coupet",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-4042&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82060004613, 45.781700106800002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-5001",
+                "description": "Saint Just / Varillon",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-5001&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.81530487624, 45.7571957535]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-5002",
+                "description": "Saint Just / Compagnon de la chanson",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-5002&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.79661217889, 45.7565273369]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-5004",
+                "description": "Saint Jean / Cathedrale",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-5004&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.8265650504, 45.760483743899997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-5005",
+                "description": "Gare Saint Paul",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-5005&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82736282617, 45.766257476100002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-5006",
+                "description": "Saint Jean / Palais de Justice",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-5006&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82888968246, 45.762037080699997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-5007",
+                "description": "Place de Trion",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-5007&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.81313495281, 45.757906308899997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-5008",
+                "description": "Place Sainte Irenee",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-5008&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.81272720953, 45.7554367591]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-5009",
+                "description": "Place Fousseret",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-5009&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82894479886, 45.764685782699999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-5015",
+                "description": "Fulchiron / Choulans",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-5015&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82166179835, 45.752001176900002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-5016",
+                "description": "Mairie du 5e",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-5016&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.80096231124, 45.757565162900001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-5026",
+                "description": "Saint Jean / Rue de la Baleine",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-5026&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82904044152, 45.763375846499997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-5029",
+                "description": "Saint Paul / Place Gerson",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-5029&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82698432331, 45.7670444715]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-5030",
+                "description": "Charcot / Residence universitaire",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-5030&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.80737276927, 45.754798196400003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-5031",
+                "description": "Menival/Curie",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-5031&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.78820051196, 45.754647082799998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-5036",
+                "description": "La Salette",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-5036&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.79561061527, 45.749686814900002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-5040",
+                "description": "Place Crepu",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-5040&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.826223348, 45.757874600800008]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-5041",
+                "description": "L'Homme de la Roche",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-5041&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82000954032, 45.766553035699999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-5044",
+                "description": "Champvert",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-5044&offering=reseau_velov"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.796626764920001, 45.759797191700002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-5045",
+                "description": "Valdo/Jeunet",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-5045&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.7887741211, 45.750481483400002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-5047",
+                "description": "Charcot / Alberic Po",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-5047&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.80445892719, 45.753442194199998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-5050",
+                "description": "Theatres Romains",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-5050&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82108664155, 45.758362396]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-5053",
+                "description": "St Just",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-5053&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.81931449775, 45.756082553799999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-5054",
+                "description": "Champvert",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-5054&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.79271430811, 45.763897767400003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-5055",
+                "description": "Apollinaire/Buyer",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-5055&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.80306139723, 45.761798619499999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6001",
+                "description": "Gare des Brotteaux",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6001&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85897382064, 45.766855236700003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6002",
+                "description": "Parc Tete d'Or / Enfants du Rhone",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6002&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84488125914, 45.777379316599998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6003",
+                "description": "Parc Tete d'Or / Lycee du Parc",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6003&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85632678136, 45.772911397400001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6004",
+                "description": "Foch / Roosevelt",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6004&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84476493884, 45.768851369799997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6005",
+                "description": "Place Edgar Quinet",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6005&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84473189285, 45.765765592500003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6006",
+                "description": "Boulevard des Belges",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6006&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85183018012, 45.773319511099999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6007",
+                "description": "Massena / Roosevelt",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6007&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.852373147, 45.769660486299998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6008",
+                "description": "Brotteaux",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6008&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.859070556740001, 45.768412261400002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6011",
+                "description": "Mairie du 6e",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6011&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84949945274, 45.768399053300001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6012",
+                "description": "Place Puvis de Chavannes",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6012&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84460363575, 45.771757085600001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6016",
+                "description": "Viabert / Avenue Thiers",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6016&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.8620922782, 45.765987983400002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6020",
+                "description": "Bd des Belges / Museum",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6020&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84838234596, 45.7745269722]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6021",
+                "description": "Sully / Garibaldi",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6021&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.8499713428, 45.770856268300001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6022",
+                "description": "Place Marechal Lyautey",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6022&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84241678472, 45.7693820661]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6023",
+                "description": "Liautey / Sarrail",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6023&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84113933935, 45.766829619600003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6024",
+                "description": "Tronchet / Anatole France",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6024&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85677966748, 45.770732560500001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6028",
+                "description": "Recamier / Tete d'Or",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6028&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85349212971, 45.764333697600001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6031",
+                "description": "Lafayette /Corneille",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6031&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84374257839, 45.763749995600001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6032",
+                "description": "Sarrail / Vauban",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6032&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84156547149, 45.764858272399998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6035",
+                "description": "Cite Int. / Palais des Congres",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6035&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85412407271, 45.785421425]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6036",
+                "description": "Cite Int. / Musee d'art contemporain",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6036&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85214040342, 45.7838816143]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6037",
+                "description": "Cite Int. / Interpol",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6037&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84934398082, 45.782306112800001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6040",
+                "description": "Place de l'Europe",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6040&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84993054608, 45.7640576127]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6041",
+                "description": "Cite Internationale - Tete d'Or nord",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6041&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85963914714, 45.784611049900001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6042",
+                "description": "Cite Internationale - Residence",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6042&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85561542792, 45.784855740499999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6043",
+                "description": "Cite Internationale - Cinema",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6043&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85221547612, 45.784736258]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6044",
+                "description": "Charmettes - Bellecombe",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6044&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86508416387, 45.766370349299997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-6045",
+                "description": "Place Juliette Recamier",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-6045&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85683338587, 45.766296077100002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7001",
+                "description": "Place Gabriel Peri",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7001&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84373860778, 45.754866891399999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7002",
+                "description": "Universites Claude Bernard",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7002&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.8363535145, 45.7513315689]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7003",
+                "description": "Gambetta / Garibaldi",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7003&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85253471281, 45.751802214300007]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7004",
+                "description": "Place Jean Mace",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7004&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84197575547, 45.746205979899997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7005",
+                "description": "Debourg / Jean Jaures",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7005&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83391613003, 45.731677721]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7006",
+                "description": "Gerland / Square Galtier",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7006&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83104413042, 45.727179482899999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7007",
+                "description": "Ayasse/Farge",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7007&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82771915596, 45.735673889799997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7008",
+                "description": "Jean Jaures / Guillotiere",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7008&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84636322005, 45.752573064400003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7009",
+                "description": "Jean Jaures / Metro",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7009&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83758552177, 45.737794826299996]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7010",
+                "description": "Berthelot / Pasteur",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7010&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83604918965, 45.747357762299998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7011",
+                "description": "Berthelot / Garibaldi",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7011&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.847275268, 45.743719525300001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7012",
+                "description": "Place des Pavillons",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7012&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82969004216, 45.729500990399998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7013",
+                "description": "Halle Tony Garnier",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7013&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82393218242, 45.731249780799999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7014",
+                "description": "Marseille / Saint Andre",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7014&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84137796432, 45.753009808199998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7016",
+                "description": "Place Saint Louis",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7016&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84764466383, 45.748998956800001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7018",
+                "description": "Lycee Labbe",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7018&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83210924461, 45.740259190099998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7020",
+                "description": "Parc de Gerland",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7020&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82713062819, 45.724093349100002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7021",
+                "description": "Rue de Gerland / Challemel Lacour",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7021&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83813843834, 45.729805865199999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7022",
+                "description": "Jaures/Lagrange",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7022&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.8415220893, 45.743925604600001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7023",
+                "description": "Berthelot / Route de Vienne",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7023&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85053697146, 45.742653761699998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7024",
+                "description": "Chevreul / Gryphe",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7024&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84052316511, 45.748518880299997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7030",
+                "description": "QGF",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7030&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83425102401, 45.743221797700002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7031",
+                "description": "Jaures/Gerland",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7031&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84030738862, 45.739813234899998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7033",
+                "description": "Hopital St Luc - St Joseph",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7033&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83475200471, 45.749417695299996]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7034",
+                "description": "Piscine du Rhone",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7034&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83832058149, 45.753709061099997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7035",
+                "description": "Marseille / Universite",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7035&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83936546384, 45.7509333904]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7038",
+                "description": "Place de Stalingard",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7038&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85294425479, 45.74955534410001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7039",
+                "description": "Guillotiere / Madeleine",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7039&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84804076774, 45.751036664700003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7041",
+                "description": "MJC du 7e",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7041&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84448236134, 45.746685928700003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7045",
+                "description": "Parc des Berges",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7045&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.824487880200001, 45.7377520987]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7046",
+                "description": "Place de l'Ecole",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7046&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.8277932559, 45.7300803945]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7049",
+                "description": "Cite Scolaire Internationale",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7049&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82355874268, 45.727960451]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7052",
+                "description": "Parc Blandan",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7052&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85118994206, 45.7459624]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7053",
+                "description": "Jaures/Thibaudiere",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7053&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84519252016, 45.7502638737]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7055",
+                "description": "Servant / Jaboulay",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7055&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84201296192, 45.746759079699999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7056",
+                "description": "Place Raspail",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7056&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84069536039, 45.755756896699999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7057",
+                "description": "Jaures / Bollier",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7057&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83545738245, 45.734681842900002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7061",
+                "description": "Jaures / Universite",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7061&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.8432379481, 45.748542856699999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7062",
+                "description": "Garibaldi / Domer",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7062&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85159792893, 45.747727024900001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-7064",
+                "description": "CROUS",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-7064&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84785882965, 45.745399234099999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8001",
+                "description": "Universite Lyon III",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8001&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86154177936, 45.748539566300003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8002",
+                "description": "Place Ambroise Courtois",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8002&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87158956632, 45.745334456599998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8003",
+                "description": "Laennec",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8003&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.88688030871, 45.738140056]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8004",
+                "description": "Mairie 8e",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8004&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.8726968237, 45.735206323500002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8006",
+                "description": "Place 8 mai 1945",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8006&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86828425933, 45.729745600599998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8007",
+                "description": "Rue des Freres Lumiere",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8007&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86645231727, 45.745017432099999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8008",
+                "description": "Beauvisage / Pressense / Viviani",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8008&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86351759044, 45.727888545699997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8009",
+                "description": "Place 11 novembre 1918",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8009&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86991609151, 45.736574944600001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8010",
+                "description": "Place Mendes France",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8010&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85952108704, 45.739927058700005]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8011",
+                "description": "Place Lebret",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8011&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85299655687, 45.735613990600001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8015",
+                "description": "Bd Jean XXIII",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8015&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87418528175, 45.740301601400006]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8020",
+                "description": "Moulin a Vent",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8020&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85396375719, 45.7297266956]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8021",
+                "description": "Place General Andre",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8021&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87762123929, 45.728281406500003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8024",
+                "description": "Mermoz / Michelet",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8024&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87863205917, 45.733237389199999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8025",
+                "description": "Santos Dumont / Louis Jouvet",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8025&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86099377368, 45.744460629]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8029",
+                "description": "Etats Unis / Levigne",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8029&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86514153674, 45.732218010700002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8030",
+                "description": "Laennec / Facultes",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8030&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87973693062, 45.741373737799996]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8034",
+                "description": "Berthelot / Villon",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8034&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86269879238, 45.738272590299999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8035",
+                "description": "Sans Souci",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8035&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86528578303, 45.747248733799999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8037",
+                "description": "Cazeneuve",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8037&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86290448888, 45.734032495599998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8038",
+                "description": "Albert Thomas / Villon",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8038&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.8672833468, 45.746770212100003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8039",
+                "description": "Pierre Delore",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8039&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85228601094, 45.738741092300003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8040",
+                "description": "Ambroise Pare",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8040&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.88373682621, 45.736240494500009]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8041",
+                "description": "Etats-Unis Viviani",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8041&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87083165477, 45.7247162655]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8042",
+                "description": "Francis de Pressensse",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8042&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86026581633, 45.731468785200001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8051",
+                "description": "Hopital St-Jean de Dieu",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8051&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85415212713, 45.724270502899998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8052",
+                "description": "Montplaisir",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8052&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86014370362, 45.747096714100003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8053",
+                "description": "Lumiere/Trouilhet",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8053&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.870105969140001, 45.743572069099997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8054",
+                "description": "Martiniere Monplaisir",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8054&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86820654518, 45.740847264400003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8056",
+                "description": "Delore / Audibert et Lavirotte",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8056&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85681281867, 45.735795232100003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8057",
+                "description": "Vienne  / Montagny",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8057&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.8534202156, 45.732360363399998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8058",
+                "description": "Longefer / Kruger",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8058&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87813090555, 45.738667884]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8059",
+                "description": "Laennec/Pinel",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8059&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.88958397628, 45.735346022500003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8060",
+                "description": "Santy / Beauvisage",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8060&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87424491378, 45.731756154]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-8061",
+                "description": "Stade Vuillermet",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-8061&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.88141900632, 45.725333556899997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-9002",
+                "description": "Place du Marche",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-9002&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.80566601141, 45.774240828099998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-9003",
+                "description": "place Valmy",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-9003&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.80531798091, 45.775641829400008]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-9004",
+                "description": "Gare de Vaise",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-9004&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.80456661725, 45.779743657099999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-9006",
+                "description": "Theatre Nouvelle Generation",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-9006&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.80334845333, 45.777207193]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-9008",
+                "description": "St Rambert - Ile Barbe",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-9008&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.8290844435, 45.797391241299998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-9010",
+                "description": "Piscine de Vaise",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-9010&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.79654028918, 45.770941031100001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-9011",
+                "description": "Conservatoire",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-9011&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.81267621959, 45.769782212199999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-9013",
+                "description": "Sedaillan / Naviguation",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-9013&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.8143737794, 45.787384085]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-9014",
+                "description": "Saint-Cyr / Mouillard",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-9014&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.81143304483, 45.783341035699998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-9020",
+                "description": "Masset / 3 septembre 1944",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-9020&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.80035245953, 45.773458397900001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-9022",
+                "description": "Masaryk / Saint Cyr",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-9022&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.80704036654, 45.778554240600002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-9029",
+                "description": "Saint Pierre de Vaise",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-9029&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.80781372226, 45.773099572500001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-9032",
+                "description": "Place Port Mouton",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-9032&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.8095044744, 45.773833745399997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-9033",
+                "description": "Gorge de Loup",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-9033&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.80564028018, 45.767356265300002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-9040",
+                "description": "Place Rhodiaceta",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-9040&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.80761289327, 45.7710055676]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-9041",
+                "description": "Carret / Sedaillan",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-9041&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82063516798, 45.792567265300001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-9042",
+                "description": "Rochecardon",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-9042&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.81144121742, 45.786508444399999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-9043",
+                "description": "Marietton ouest",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-9043&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.79971495827, 45.776091964800003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-9044",
+                "description": "Masset / St Pierre de Vaise",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-9044&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.80090048324, 45.770476920100002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-9049",
+                "description": "Gorge de Loup",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-9049&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.80515800301, 45.770134072]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-9050",
+                "description": "Le Chateau",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-9050&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.794525308500001, 45.783637165099996]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-9051",
+                "description": "Andrei Sakharov",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-9051&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.79707090233, 45.786524739299999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-9052",
+                "description": "Balmont",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-9052&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.79916034097, 45.789315187600003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10001",
+                "description": "IUT/Feyssine",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10001&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.88241040153, 45.785632462400002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10002",
+                "description": "INSA",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10002&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87687992444, 45.782189644100001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10004",
+                "description": "Tonkin / Allende",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10004&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86264758133, 45.776221014699999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10005",
+                "description": "Parc Tete d'Or / Stalingrad",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10005&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.859991161, 45.779701613199997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10006",
+                "description": "Charpennes",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10006&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86313272236, 45.770226769099999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10007",
+                "description": "Condorcet / Piaton",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10007&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86750421314, 45.774215178399999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10008",
+                "description": "Salengro / Vaillant",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10008&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87960912513, 45.778357540199998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10011",
+                "description": "Gratte-Ciel / Branly",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10011&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.88058491113, 45.769212073600002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10012",
+                "description": "IUT",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10012&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.8872193605, 45.767980585700002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10013",
+                "description": "Cusset / Voyant",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10013&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.90113289282, 45.765042266899997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10014",
+                "description": "Gare Laurent Bonnevay",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10014&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.9098182197, 45.765124055400001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10016",
+                "description": "Place de la paix",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10016&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.91464300868, 45.752099728200001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10018",
+                "description": "Tolstoi / Verlaine",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10018&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.88073777969, 45.761716350500002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10021",
+                "description": "GrandClement",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10021&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.88986361796, 45.759711693600003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10024",
+                "description": "Maisons Neuves",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10024&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87734642987, 45.755951029199998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10025",
+                "description": "Totem",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10025&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87314108788, 45.763640703]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10027",
+                "description": "Mairie de Villeurbanne",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10027&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87989386728, 45.766830606500001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10028",
+                "description": "Republique / Anatole France",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10028&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87396620987, 45.767534302]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10030",
+                "description": "Greuze",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10030&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.89384801671, 45.773843668200001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10031",
+                "description": "Croix Luizet",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10031&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.88349957514, 45.7807198478]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10032",
+                "description": "Pixel",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10032&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.89996521943, 45.7571560146]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10034",
+                "description": "MJC",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10034&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.88615728486, 45.761788285]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10035",
+                "description": "Boiron Grange",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10035&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.90047953037, 45.763158795700001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10036",
+                "description": "Chaplin / Dutrievoz",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10036&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85915458576, 45.7743568287]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10038",
+                "description": "Condorcet / 11 Nov. 1918",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10038&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86677832802, 45.779045773699998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10039",
+                "description": "Bouvier / 8 mai 1945",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10039&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.89150082453, 45.779449926600002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10041",
+                "description": "Kimmerling",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10041&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.8988656629, 45.752972399599997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10043",
+                "description": "Salengro / 8 mai 1945",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10043&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.89058583663, 45.783011074599997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10046",
+                "description": "Charmettes / Zola",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10046&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.8671530971, 45.770746701]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10047",
+                "description": "Pressense / Bienvenus",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10047&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.88499768198, 45.771172325499997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10048",
+                "description": "Place Marengo",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10048&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87588806572, 45.759243850099999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10049",
+                "description": "Pressense / 8 mai 1945",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10049&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.89672370709, 45.769180194500002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10053",
+                "description": "Rossellini / 11 Novembre",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10053&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86290216903, 45.779408313600001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10054",
+                "description": "Stalingrad / Melies",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10054&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.85952335379, 45.776705757800002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10055",
+                "description": "Condorcet / Galline",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10055&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86711492199, 45.7764535731]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10056",
+                "description": "11 novembre / Gaston Berger",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10056&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.8719521951, 45.779112188600003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10058",
+                "description": "metro Flachet",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10058&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.89215042623, 45.767126386400001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10059",
+                "description": "Anatole France / Lherminier",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10059&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.88424151324, 45.768876317900002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10060",
+                "description": "Saint Exupery",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10060&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87897574569, 45.758788260899998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10061",
+                "description": "metro Republique",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10061&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87295938887, 45.770783840100002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10063",
+                "description": "Perrin/Jean Jaures",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10063&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.88561275425, 45.758389382899999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10064",
+                "description": "Rollet / 4 aout 1789 / Blanqui",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10064&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.88431892911, 45.764821704500001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10071",
+                "description": "Lycee Marie Curie",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10071&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.89645432932, 45.761559640700007]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10072",
+                "description": "Jacques Brel /Chorel",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10072&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86428606575, 45.774225539699998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10073",
+                "description": "Nouveau Musee D'Art Contemporain",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10073&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87246226206, 45.761535426199998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10074",
+                "description": "Zola / Passage Rey",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10074&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87694841471, 45.770048087799999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10075",
+                "description": "Charmettes / Peri / Philip",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10075&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86569926845, 45.772299593900001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10079",
+                "description": "Anatole France / Barbusse",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10079&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87916148914, 45.768130400200008]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10080",
+                "description": "Vaillant/Perroncel",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10080&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.88028987133, 45.775425991500001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10083",
+                "description": "Chateau Gaillard / Filature /",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10083&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.88398291966, 45.777798385499999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10084",
+                "description": "La Doua / Avenue des Arts",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10084&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87127311041, 45.7835136793]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10086",
+                "description": "Anatole France / Pressense",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10086&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.88952608579, 45.769836000600002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10087",
+                "description": "Bon Coin",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10087&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.90069696832, 45.760603757399998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10088",
+                "description": "4 aout 1789 / Zola",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10088&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.89787173699, 45.766242781700001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10091",
+                "description": "Chateau Gaillard / Dupeuble",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10091&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.88803874088, 45.774750799300001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10092",
+                "description": "Montgolfier / Chateau Gaillard",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10092&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.89036956577, 45.7715577377]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10101",
+                "description": "Einstein / 1 novembre 1918",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10101&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87433130875, 45.779473772900005]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10102",
+                "description": "DOUA / Gaston Berger",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10102&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87132691289, 45.780944479699997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10103",
+                "description": "DOUA / Rue des sports",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10103&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.877404232580001, 45.784485187199998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10110",
+                "description": "Memoire et Societe",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10110&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.88275786249, 45.759576833300002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10111",
+                "description": "Charles Hernu / Vitton",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10111&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.86225781966, 45.770333043800001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10112",
+                "description": "Place de la Reconnaissance",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10112&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.88513867619, 45.754535990699999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10113",
+                "description": "Gare de Villeurbanne",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10113&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.89148943271, 45.755766854599997]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10114",
+                "description": "Bel Air / Les Brosses",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10114&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.91080670867, 45.757907073200002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10115",
+                "description": "Place d'Espagne",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10115&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.90566388975, 45.754097930699999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10116",
+                "description": "Blum / Fays",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10116&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.90621033311, 45.7606109098]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10117",
+                "description": "La Perraliere",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10117&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.89233360718, 45.764563666500003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10118",
+                "description": "Bourgchanin / Chambfort",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10118&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.90059916074, 45.767153312700003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10119",
+                "description": "Saint Jean",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10119&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.90448884579, 45.780445821699999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10120",
+                "description": "Salengro / Descartes",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10120&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87162917814, 45.776251751499998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10121",
+                "description": "Parc du Centre",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10121&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.87905957666, 45.771924968700006]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-10122",
+                "description": "Verdun/Desgrand",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-10122&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.89708592412, 45.7840513437]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-11001",
+                "description": "Gare de Cuire",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-11001&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.83371342159, 45.785775530800002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-11002",
+                "description": "Saint-Clair",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-11002&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.84830364351, 45.785729874300003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-11003",
+                "description": "Place de la Rochette",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-11003&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82365975628, 45.791719975299998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-12001",
+                "description": "La Soie",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-12001&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.92060394569, 45.760813194699999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-12002",
+                "description": "Carre de Soie",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-12002&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.91927578595, 45.764400313099998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2028",
+                "description": "Sainte Blandine",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2028&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.82214287043961, 45.744422301422297]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "procedure": "velov-2020",
+                "description": "Musee des Confluences",
+                "offering": "reseau_velov",
+                "url_graph": "http://demo.data.grandlyon.com/graph/velov?procedure=velov-2020&offering=reseau_velov",
+                "last_update": "2020-04-09T11:15:00+02:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.81894553443225, 45.733390294985703]
+            }
+        }
+    ]
+}
