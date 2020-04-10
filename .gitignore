@@ -24,3 +24,6 @@ yarn-error.log*
 
 package-lock.json
 .vscode/settings.json
+
+# python environnement
+api/env
