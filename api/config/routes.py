@@ -6,5 +6,5 @@ def setup_routes(app):
         web.get('/', default.hello),
         web.get("/stations", stations.getStations),
         web.get("/stations/{station_name}", stations.getStationHistory),
-        #web.get("/test", stations.getLastUpdate)
+        web.get("/last/{station_name}", stations.getLastUpdate)
     ])
