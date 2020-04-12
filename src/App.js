@@ -21,7 +21,8 @@ const App = () => {
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(true)
   const [markers, setMarkers] = useState([])
-  const [text, setText] = useState('teeeeeeeeext')
+  const [velosPlacesCheckbox, setVelosPlacesCheckbox]  = useState(false)
+
   console.log(ProjectContext)
   React.useEffect(() => {
     const L = require("leaflet");
@@ -30,45 +31,74 @@ const App = () => {
 
     backend.get("/stations")
       .then(res => {
+        console.log('res data', res.data)
         setMarkers(res.data.map(d => {
-          return {position: [d.geometry[1], d.geometry[0]], name: d.name, desc: d.procedure}
+          return {position: [d.geometry[1], d.geometry[0]], name: d.name, id: d.procedure}
         }))
       })
 
+    
     L.Icon.Default.mergeOptions({
       iconUrl: velovIcon,
       iconSize: [30,30],
       iconAnchor: [15,15]
     });
-    setMarkers([{position: [45.75, 4.85], name: 'Bonjour', desc: "Description"}])
     setLoading(false)
-    setText('tix')
   }, []);
 
   React.useEffect(() => {
-  }, [markers]);
+    // refresh map
+  }, [markers, velosPlacesCheckbox]);
 
-  console.log(markers)
+  
+  const clickOnMarker = (marker) => {
+    const {position, id, name} = marker
+    console.log(marker)
+    
+    backend.get("/stations/"+id)
+      .then(station => {
+        console.log('station', station.data)
+      })
+  }
+
   return (
     <div>
       {loading ? <div> Chargement </div>
-      : <Map center={[45.75, 4.85]} zoom={13} style={{ height: "100vh" }}>
-        <TileLayer
-          attribution='&amp;copy <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
-          url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-        />
-        <MarkerClusterGroup>
-          {
-            markers.map(marker => 
-              <Marker key={Math.random()} position={marker.position}>
-                <Popup>
-                  fidhfkjsdhfk
-                </Popup>
-              </Marker>
-            )
-          }
-        </MarkerClusterGroup>
-      </Map>}
+      : <div>
+          <div style={{ float:"left", width:"20%" }}>
+            <div style={{padding:"10px"}}>
+              <div style={{float:"left", width:"33%"}}>
+                Vélos disponibles
+              </div>
+              <div style={{float:"left", width:"20%" }}>
+                <label class="switch">
+                  <input type="checkbox" checked={velosPlacesCheckbox} onChange={() => setVelosPlacesCheckbox(!velosPlacesCheckbox)}/>
+                  <span class="slider round"></span>
+                </label>
+              </div>
+              <div style={{float:"right", width:"40%"}}>
+                Places disponibles
+              </div>
+            </div>
+          </div>
+          <Map center={[45.75, 4.85]} zoom={13} style={{ height: "100vh" }}>
+          <TileLayer
+            attribution='&amp;copy <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+            url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+          />
+          <MarkerClusterGroup>
+            {
+              markers.map(marker => 
+                <Marker key={Math.random()} position={marker.position} onClick={() => clickOnMarker(marker)}>
+                  <Popup>
+                    {marker.name}
+                  </Popup>
+                </Marker>
+              )
+            }
+          </MarkerClusterGroup>
+        </Map>
+      </div>}
     </div>
   );
 }
