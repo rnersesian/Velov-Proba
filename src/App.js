@@ -1,5 +1,7 @@
 import React, { useContext, useEffect, useState } from 'react';
 import logo from './logo.svg';
+import 'rc-time-picker/assets/index.css';
+
 import MapComponent from './map'
 import './App.css';
 import { Map, Marker, Popup, TileLayer } from 'react-leaflet'
@@ -8,6 +10,8 @@ import ProjectContext from "./context/ProjectContext"
 import axios from "axios"
 import velovIcon from "./icon_velov.png"
 import MarkerClusterGroup from "react-leaflet-markercluster";
+import TimePicker from 'rc-time-picker';
+import moment from 'moment';
 
 const backend = axios.create({
   /* baseURL: "http://192.168.68.251:8082", */
@@ -22,9 +26,10 @@ const App = () => {
   const [error, setError] = useState(true)
   const [markers, setMarkers] = useState([])
   const [velosPlacesCheckbox, setVelosPlacesCheckbox]  = useState(false)
+  const [day, setDay]  = useState(0)
+  const [hour, setHour] = useState(moment())
 
-  console.log(ProjectContext)
-  React.useEffect(() => {
+  useEffect(() => {
     const L = require("leaflet");
 
     delete L.Icon.Default.prototype._getIconUrl;
@@ -46,9 +51,9 @@ const App = () => {
     setLoading(false)
   }, []);
 
-  React.useEffect(() => {
-    // refresh map
-  }, [markers, velosPlacesCheckbox]);
+  useEffect(() => {
+    console.log(velosPlacesCheckbox, day, hour.hour(), hour.minute())
+  }, [velosPlacesCheckbox, day, hour]);
 
   
   const clickOnMarker = (marker) => {
@@ -60,7 +65,8 @@ const App = () => {
         console.log('station', station.data)
       })
   }
-
+  
+  
   return (
     <div>
       {loading ? <div> Chargement </div>
@@ -79,6 +85,30 @@ const App = () => {
               <div style={{float:"right", width:"40%"}}>
                 Places disponibles
               </div>
+            </div>
+            <div>
+              <label>
+                Jour de la semaine :
+                <select value={day} onChange={(e) => setDay(e.target.value)}>
+                  <option value="0">Lundi</option>
+                  <option value="1">Mardi</option>
+                  <option value="2">Mercredi</option>
+                  <option value="3">Jeudi</option>
+                  <option value="4">Vendredi</option>
+                  <option value="5">Samedi</option>
+                  <option value="6">Dimanche</option>
+                </select>
+              </label>
+            </div>
+            <div>
+              <TimePicker
+                style={{ width: 100 }}
+                showSecond={false}
+                defaultValue={moment()}
+                value={hour}
+                className="xxx"
+                onChange={(e) => setHour(e)}
+              />
             </div>
           </div>
           <Map center={[45.75, 4.85]} zoom={13} style={{ height: "100vh" }}>
